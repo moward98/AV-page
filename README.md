@@ -1,4 +1,4 @@
-This page is intended to show some of the past projects regarding autonomous vehicles that I have completed.
+This page is intended to show some of my past projects regarding autonomous vehicles.
 
 ## Project 1: Lane Lines Image Detection w/ OpenCV
 
