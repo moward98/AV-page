@@ -1,4 +1,5 @@
-The following are some of the projects I  
+This page is intended to show some of the past projects regarding autonomous vehicles that I have completed.
+
 ## Project 1: Lane Lines Image Detection w/ OpenCV
 
 The goal of this project was to use Python and OpenCV to create an image processing pipeline to detect the lane lines in a video taken from a car travelling along a road. The pipeline I created has the following steps:
