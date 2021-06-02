@@ -1,6 +1,6 @@
 This page is intended to show some of my past projects regarding autonomous vehicles.
 
-[create an anchor](##Project-3:-Probabilistic-Occupancy-Grid-Generation-from-LiDAR-Data)
+[create an anchor](#Project-3:-Probabilistic-Occupancy-Grid-Generation-from-LiDAR-Data)
 
 ## Project 1: Lane Lines Image Detection w/ OpenCV
 
