@@ -1,5 +1,7 @@
 This page is intended to show some of my past projects regarding autonomous vehicles.
 
+[create an anchor](##Project-3:-Probabilistic-Occupancy-Grid-Generation-from-LiDAR-Data)
+
 ## Project 1: Lane Lines Image Detection w/ OpenCV
 
 The goal of this project was to use Python and OpenCV to create an image processing pipeline to detect the lane lines in a video taken from a car travelling along a road. The pipeline I created has the following steps:
