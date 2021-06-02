@@ -60,4 +60,4 @@ The following image shows the path the vehicle actually traverses in orange, and
 ![](media/EKF.PNG)
 
 
-# The Header
+## The Header
