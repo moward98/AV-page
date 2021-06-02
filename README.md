@@ -1,9 +1,11 @@
 This page is intended to show some of my past projects regarding autonomous vehicles.
 
-[Project 1: Lane Lines Image Detection w/ OpenCV](#project-1-lane-lines-image-detection-w-opencv)
-[Project 2: Semantic Segmentation via Deep Neural Net (DNN)](#project-2-semantic-segmentation-via-deep-neural-net-dnn)
-[Project 3: Probabilistic Occupancy Grid Generation from LiDAR Data](#project-3-probabilistic-occupancy-grid-generation-from-lidar-data)
-[## Project 4: Practical Application of an Extended Kalman Filter (EKF)](#project-4-practical-application-of-an-extended-kalman-filter-ekf)
+|Project Index|
+|:-|
+|[Project 1: Lane Lines Image Detection w/ OpenCV](#project-1-lane-lines-image-detection-w-opencv)|
+|[Project 2: Semantic Segmentation via Deep Neural Net (DNN)](#project-2-semantic-segmentation-via-deep-neural-net-dnn)|
+|[Project 3: Probabilistic Occupancy Grid Generation from LiDAR Data](#project-3-probabilistic-occupancy-grid-generation-from-lidar-data)|
+|[Project 4: Practical Application of an Extended Kalman Filter (EKF)](#project-4-practical-application-of-an-extended-kalman-filter-ekf)|
 
 ## Project 1: Lane Lines Image Detection w/ OpenCV
 
