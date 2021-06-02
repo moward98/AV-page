@@ -1,6 +1,7 @@
 This page is intended to show some of my past projects regarding autonomous vehicles.
 
 [create an anchor](#Project-3:-Probabilistic-Occupancy-Grid-Generation-from-LiDAR-Data)
+[Link to Header](#the-header)
 
 ## Project 1: Lane Lines Image Detection w/ OpenCV
 
@@ -59,3 +60,4 @@ The following image shows the path the vehicle actually traverses in orange, and
 ![](media/EKF.PNG)
 
 
+# The Header
